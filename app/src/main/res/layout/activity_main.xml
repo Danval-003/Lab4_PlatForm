@@ -28,6 +28,7 @@
         android:fontFamily="@font/aleo_bold_italic"
         android:text="From Emma."
         android:textColor="@color/colorFont"
+        android:textSize="34dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
